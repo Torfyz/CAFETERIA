@@ -252,10 +252,10 @@ section{
         height: 50px;
     }
     .navbar a{
-        font-size: 0.8rem;
+        font-size: 0.6rem;
     }
     .navbar a:hover{
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
     .icons img{
         width: 15px;
